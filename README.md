@@ -1,2 +1,2 @@
-# audits
-Yam and Yam products audit reports.
+# Yam Audits
+Yam products audit reports.
